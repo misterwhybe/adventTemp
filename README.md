@@ -1,1 +1,1 @@
-Click [Here](https://github.com/misterwhybe/adventTemp/blob/main/index.html)
+Click [Here](https://misterwhybe.github.io/adventTemp/)
